@@ -1,5 +1,3 @@
-"""Refresh Extracts on a Tableau Server"""
-
 import argparse
 import getpass
 import tableauserverclient as tsc
